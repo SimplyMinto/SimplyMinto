@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-(https://github.com/7hemenace/7hemenace/blob/main/7he%20R4.gif)
+![7he R4](https://github.com/user-attachments/assets/c0a9b237-a42f-4cc8-8da7-8ad50839da02)
 
 <--
 **7hemenace/7hemenace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
