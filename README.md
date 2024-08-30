@@ -4,5 +4,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,javascript,css,php)](https://skillicons.dev)
   
-<a href="https://app.daily.dev/simplyminto"><img src="https://api.daily.dev/devcards/v2/l1r6a5kqLTQkaPOTUAHGQ.png?type=default&r=s2b" width="356" alt="Manas's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/simplyminto"><img src="https://api.daily.dev/devcards/v2/l1r6a5kqLTQkaPOTUAHGQ.png?type=default&r=s2b" width="356" alt="Manas's Dev Card"/></a>
 
